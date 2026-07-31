@@ -1,0 +1,54 @@
+# Telangana Clip Analysis using ArcGIS Pro
+
+## Overview
+
+This project demonstrates the use of the Clip geoprocessing tool in ArcGIS Pro to extract Telangana districts from the India District Boundary dataset.
+
+## Objective
+
+To create a separate district boundary dataset for Telangana using the Clip analysis tool.
+
+## Software
+
+- ArcGIS Pro
+
+## Tools Used
+
+- Clip
+- Select By Attributes
+- Export Features
+
+## Input Data
+
+- India State Boundary
+- India District Boundary
+
+## Output
+
+- Telangana State Boundary
+- Telangana Districts
+
+## Map Elements
+
+- Title
+- Legend
+- North Arrow
+- Scale Bar
+- Neatline
+
+## Workflow
+
+1. Selected Telangana from the India State Boundary.
+2. Exported the selected state boundary.
+3. Used the Clip tool.
+4. Extracted Telangana districts.
+5. Styled the map.
+6. Created the final layout.
+
+## Output Map
+
+![Clip Analysis](Images/Clip_Analysis_Output.png)
+
+## Author
+
+Utkarsh Gullepalli
